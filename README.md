@@ -52,4 +52,4 @@ The system is managed via a custom-built, highly secure Admin Dashboard featurin
 * **Reverse Proxy** (Nginx/Caddy)
 
 ---
-*Developed & Engineered by [Your Name/Tarik Salih]*
+*Developed & Engineered by Tarik Salih*
